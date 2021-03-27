@@ -33,9 +33,9 @@ Project developed with **React.Js** inspired at [Disney+ (https://www.disneyplus
 
 ## 🎨 Layout
 
-
-
-
+<p align="center">
+<img  src="https://github.com/viniciusfal/disneyPlus-sign/blob/master/src/assets/peekDsi.gif"/>
+</p>
 
 ---
 
@@ -53,7 +53,7 @@ and one editor. For example: [VSCode](https://code.visualstudio.com/)
 ```bash
 
 # Clon this repository
-$ git clone https://github.com/viniciusfal/GitHub-explorerRepo
+$ git clone https://github.com/viniciusfal/disneyPlus-sign.git
 
 # Install dependencies
 $ yarn
@@ -71,10 +71,11 @@ The followings tools were used on the project:
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
--   **[Axios](https://github.com/axios/axios)**
+-   **[Polished](https://polished.js.org/)**
+-   **[Unform](https://github.com/unform/unform)**
 
 
-> See the archive: [package.json](https://github.com/viniciusfal/GitHub-explorerRepo/blob/main/package.json)
+> See the archive: [package.json](https://github.com/viniciusfal/disneyPlus-sign/blob/master/package.json)
 
 
 
@@ -84,7 +85,7 @@ The followings tools were used on the project:
 ---
 
 <a href="https://github.com/viniciusfal">
- <img style="border-radius: 50%;" src=https://avatars.githubusercontent.com/u/74741895?s=96&v=4" width="100px;" alt=""/>
+ <img src=https://avatars.githubusercontent.com/u/74741895?s=96&v=4" width="100px;"  style="border-radius:50%;"/>
  <br />
  <sub><b>Vinicius Silva 🚀</b></sub> 
  <br />
