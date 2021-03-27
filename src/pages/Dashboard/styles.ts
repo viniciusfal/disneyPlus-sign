@@ -9,8 +9,8 @@ export const Container = styled.div`
 
     a {
         img {
-            width: 80px;
-            height: 60px;
+            width: 70px;
+            height: 50px;
             position: absolute;
             left: 0;
             margin: 18px 33px;
@@ -21,7 +21,6 @@ export const Container = styled.div`
         height: 100vh;
     }
 `;
-
 export const Footer = styled.footer`
     background: #000000;
     text-align: center;
@@ -29,12 +28,13 @@ export const Footer = styled.footer`
     margin: 0 auto;
 
     img {
-        width: 75px;
-        height: 57px;
+        width: 72px;
+        height: 43px;
         margin: 20px 0;
     }
 
     p {
+        font-size: 14px;
         line-height: 1.6;
         letter-spacing: 1px;
 
@@ -51,7 +51,6 @@ export const Footer = styled.footer`
         align-items: center;
         justify-content: center;
         padding-bottom: 20px;
-
         strong {
             margin-left: 8px;
         }

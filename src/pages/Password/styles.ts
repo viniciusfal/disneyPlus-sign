@@ -9,9 +9,9 @@ export const Container = styled.div`
     align-items: center;
 
     img {
-        margin-top: 60px;
-        width: 200px;
-        height: 110px;
+        margin-top: 40px;
+        width: 165px;
+        height: 85px;
     }
 
     form {
@@ -19,40 +19,38 @@ export const Container = styled.div`
         display: flex;
         flex-direction: column;
         h2 {
-            font-size: 28px;
+            font-size: 23px;
             letter-spacing: 1px;
         }
         input {
-            margin-top: 30px;
-            width: 470px;
-            height: 60px;
+            margin-top: 25px;
+            width: 375px;
+            height: 51px;
             border-radius: 6px;
             border: 0;
-            padding: 0 20px;
-            font-size: 18px;
-
+            padding: 0 15px;
+            font-size: 16px;
             background: #31343e;
             color: #f9f9f9;
 
             &:focus {
                 border: 1px solid #6d6f76;
             }
-
             &::placeholder {
-                font-size: 18px;
+                font-size: 14px;
                 color: #c0c0c1;
                 letter-spacing: 1px;
             }
         }
 
         button {
-            margin-top: 42px;
-            width: 470px;
-            height: 60px;
+            margin-top: 35px;
+            width: 375px;
+            height: 51px;
             border: 0;
             border-radius: 6px;
+            font-size: 18px;
 
-            font-size: 20px;
             letter-spacing: 1px;
 
             color: #f9f9f9;
@@ -64,8 +62,8 @@ export const Container = styled.div`
             }
         }
         p {
-            margin-top: 35px;
-            font-size: 16px;
+            margin-top: 30px;
+            font-size: 14px;
             font-weight: normal;
             color: #c0c0c1;
             letter-spacing: 1px;
@@ -83,6 +81,11 @@ export const Container = styled.div`
         }
     }
 `;
+export const Error = styled.div`
+    color: #c53030;
+
+    font-size: 20px;
+`;
 
 export const Footer = styled.footer`
     background: #000000;
@@ -91,12 +94,13 @@ export const Footer = styled.footer`
     margin: 0 auto;
 
     img {
-        width: 75px;
-        height: 57px;
+        width: 72px;
+        height: 43px;
         margin: 20px 0;
     }
 
     p {
+        font-size: 14px;
         line-height: 1.6;
         letter-spacing: 1px;
 
@@ -118,10 +122,4 @@ export const Footer = styled.footer`
             margin-left: 8px;
         }
     }
-`;
-
-export const Error = styled.div`
-    color: #c53030;
-
-    font-size: 20px;
 `;
