@@ -46,8 +46,6 @@ Before of begin, you go need have  install in your machine the following tools:
 and one editor. For example: [VSCode](https://code.visualstudio.com/)
 
 
----
-
 #### 🎲 Run
 
 ```bash
