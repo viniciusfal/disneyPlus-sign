@@ -26,7 +26,7 @@
 ♻️ disneyPlus-sign - The project's target is can have the authentication page of Disney Plus.
 
 
-Project developed with **React.Js** inspired at [Disney+ (https://www.disneyplus.com/pt-br/login).
+Project developed with **React.Js** inspired at <a href="https://www.disneyplus.com/pt-br/login">Disney+.</a>
 
 ---
 
